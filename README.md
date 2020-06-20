@@ -5,6 +5,8 @@
 - [Community](#community)
 - [Code of Conduct](#code-of-conduct)
 
+[![Gitter](https://badges.gitter.im/coding-socks/community.svg)](https://gitter.im/coding-socks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Introduction
 
 The goal of Coding Socks is to:
