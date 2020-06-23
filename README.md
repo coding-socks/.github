@@ -4,6 +4,7 @@
 - [Mascot](#mascot)
 - [Community](#community)
 - [Code of Conduct](#code-of-conduct)
+- [Questions](#questions)
 
 [![Gitter](https://badges.gitter.im/coding-socks/community.svg)](https://gitter.im/coding-socks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -28,3 +29,7 @@ People in the Coding Socks community are called Sokceteers. The name comes from 
 # Code of Conduct
 
 This repository contains [Code of Conduct 2.0](CODE_OF_CONDUCT.md) from [Contributor Covenant](https://www.contributor-covenant.org/) used in the Coding Socks community.
+
+# Questions
+
+Have a question? Feel free to open an issue in this repository or send an email to contact+codingsocks@nergal.xyz. We will try to reply to you as soon as possible.
