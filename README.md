@@ -24,7 +24,7 @@ The mascot of Coding Socks is called Socket. The name comes from the fusion of "
 
 # Community
 
-People in the Coding Socks community are called Sokceteers. The name comes from the fusion of "sock" and "puppeteer".
+People in the Coding Socks community are called Socketeers. The name comes from the fusion of "sock" and "puppeteer".
 
 # Code of Conduct
 
