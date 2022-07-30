@@ -1,4 +1,4 @@
-![Coding Socks Mascot](img/coding_socks_text_with_socket_w980.png)
+![Coding Socks Mascot](/img/coding_socks_text_with_socket_w980.png)
 
 - [Introduction](#introduction)
 - [Mascot](#mascot)
@@ -28,7 +28,7 @@ People in the Coding Socks community are called Socketeers. The name comes from 
 
 # Code of Conduct
 
-This repository contains [Code of Conduct 2.0](CODE_OF_CONDUCT.md) from [Contributor Covenant](https://www.contributor-covenant.org/) used in the Coding Socks community.
+This repository contains [Code of Conduct 2.0](/CODE_OF_CONDUCT.md) from [Contributor Covenant](https://www.contributor-covenant.org/) used in the Coding Socks community.
 
 # Questions
 
